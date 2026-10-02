@@ -1,0 +1,518 @@
+[
+  {
+    "id": "pates-carbonara",
+    "title": "Spaghetti carbonara",
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 12,
+    "tags": ["rapide", "familial"],
+    "emoji": "🍝",
+    "color": "#FCE7C8",
+    "ingredients": [
+      { "ingredientId": "spaghetti", "quantity": 400, "unit": "g" },
+      { "ingredientId": "lardons", "quantity": 200, "unit": "g" },
+      { "ingredientId": "oeuf", "quantity": 4, "unit": "piece" },
+      { "ingredientId": "parmesan", "quantity": 80, "unit": "g" },
+      { "ingredientId": "poivre", "quantity": 2, "unit": "pincee" }
+    ],
+    "steps": [
+      "Cuire les spaghetti dans une grande casserole d'eau salée.",
+      "Faire dorer les lardons à sec dans une poêle.",
+      "Battre les œufs avec le parmesan râpé et beaucoup de poivre.",
+      "Égoutter les pâtes en gardant un peu d'eau de cuisson, mélanger hors du feu avec les lardons puis les œufs.",
+      "Détendre avec un peu d'eau de cuisson et servir aussitôt."
+    ]
+  },
+  {
+    "id": "lasagnes-bolognaise",
+    "title": "Lasagnes à la bolognaise",
+    "servings": 6,
+    "prepTime": 30,
+    "cookTime": 45,
+    "tags": ["familial"],
+    "emoji": "🫕",
+    "color": "#F9D4C4",
+    "ingredients": [
+      { "ingredientId": "pates-lasagne", "quantity": 300, "unit": "g" },
+      { "ingredientId": "boeuf-hache", "quantity": 500, "unit": "g" },
+      { "ingredientId": "oignon", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "ail", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "coulis-tomate", "quantity": 700, "unit": "ml" },
+      { "ingredientId": "huile-olive", "quantity": 2, "unit": "cas" },
+      { "ingredientId": "lait", "quantity": 50, "unit": "cl" },
+      { "ingredientId": "beurre", "quantity": 50, "unit": "g" },
+      { "ingredientId": "farine", "quantity": 50, "unit": "g" },
+      { "ingredientId": "muscade", "quantity": 1, "unit": "pincee" },
+      { "ingredientId": "emmental-rape", "quantity": 150, "unit": "g" }
+    ],
+    "steps": [
+      "Faire revenir l'oignon et l'ail émincés dans l'huile, ajouter le bœuf et le faire dorer.",
+      "Verser le coulis de tomate et laisser mijoter 15 minutes.",
+      "Préparer la béchamel : faire fondre le beurre, ajouter la farine puis le lait en fouettant, assaisonner de muscade.",
+      "Alterner dans un plat plaques, sauce bolognaise et béchamel, en finissant par la béchamel.",
+      "Parsemer d'emmental et enfourner 40 à 45 minutes à 180 °C."
+    ]
+  },
+  {
+    "id": "quiche-lorraine",
+    "title": "Quiche lorraine",
+    "servings": 6,
+    "prepTime": 15,
+    "cookTime": 35,
+    "tags": ["familial"],
+    "emoji": "🥧",
+    "color": "#FBEAB8",
+    "ingredients": [
+      { "ingredientId": "pate-brisee", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "lardons", "quantity": 200, "unit": "g" },
+      { "ingredientId": "oeuf", "quantity": 3, "unit": "piece" },
+      { "ingredientId": "creme-fraiche", "quantity": 20, "unit": "cl" },
+      { "ingredientId": "lait", "quantity": 20, "unit": "cl" },
+      { "ingredientId": "emmental-rape", "quantity": 80, "unit": "g" },
+      { "ingredientId": "muscade", "quantity": 1, "unit": "pincee" }
+    ],
+    "steps": [
+      "Préchauffer le four à 200 °C et foncer un moule avec la pâte.",
+      "Faire revenir les lardons à sec et les répartir sur la pâte.",
+      "Battre les œufs, la crème, le lait, l'emmental et la muscade.",
+      "Verser sur les lardons et cuire 35 minutes, jusqu'à ce que la quiche soit dorée."
+    ]
+  },
+  {
+    "id": "salade-cesar",
+    "title": "Salade César au poulet",
+    "servings": 4,
+    "prepTime": 20,
+    "cookTime": 10,
+    "tags": ["rapide"],
+    "emoji": "🥗",
+    "color": "#DCEFD0",
+    "ingredients": [
+      { "ingredientId": "laitue", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "blanc-poulet", "quantity": 400, "unit": "g" },
+      { "ingredientId": "parmesan", "quantity": 50, "unit": "g" },
+      { "ingredientId": "pain", "quantity": 150, "unit": "g" },
+      { "ingredientId": "citron", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "huile-olive", "quantity": 4, "unit": "cas" },
+      { "ingredientId": "moutarde", "quantity": 1, "unit": "cac" },
+      { "ingredientId": "ail", "quantity": 1, "unit": "piece" }
+    ],
+    "steps": [
+      "Couper le pain en dés et le faire dorer à la poêle avec un filet d'huile et l'ail écrasé.",
+      "Saisir les blancs de poulet 5 minutes de chaque côté, puis les trancher.",
+      "Préparer la sauce : jus de citron, moutarde, huile et un peu de parmesan.",
+      "Mélanger la laitue avec la sauce, ajouter poulet, croûtons et copeaux de parmesan."
+    ]
+  },
+  {
+    "id": "curry-lentilles",
+    "title": "Curry de lentilles corail",
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 25,
+    "tags": ["vegetarien", "rapide"],
+    "emoji": "🍛",
+    "color": "#FDE1B0",
+    "ingredients": [
+      { "ingredientId": "lentilles-corail", "quantity": 300, "unit": "g" },
+      { "ingredientId": "lait-coco", "quantity": 400, "unit": "ml" },
+      { "ingredientId": "tomates-concassees", "quantity": 400, "unit": "g" },
+      { "ingredientId": "oignon", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "ail", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "gingembre", "quantity": 20, "unit": "g" },
+      { "ingredientId": "curry", "quantity": 2, "unit": "cac" },
+      { "ingredientId": "riz-basmati", "quantity": 300, "unit": "g" },
+      { "ingredientId": "coriandre", "quantity": 1, "unit": "piece" }
+    ],
+    "steps": [
+      "Faire revenir l'oignon, l'ail et le gingembre hachés avec le curry.",
+      "Ajouter les lentilles rincées, les tomates et le lait de coco.",
+      "Laisser mijoter 20 minutes en remuant, en ajoutant un peu d'eau si besoin.",
+      "Cuire le riz pendant ce temps et servir parsemé de coriandre."
+    ]
+  },
+  {
+    "id": "ratatouille",
+    "title": "Ratatouille",
+    "servings": 6,
+    "prepTime": 25,
+    "cookTime": 50,
+    "tags": ["vegetarien", "familial"],
+    "emoji": "🍆",
+    "color": "#E8D9F1",
+    "ingredients": [
+      { "ingredientId": "aubergine", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "courgette", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "poivron", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "tomate", "quantity": 5, "unit": "piece" },
+      { "ingredientId": "oignon", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "ail", "quantity": 3, "unit": "piece" },
+      { "ingredientId": "huile-olive", "quantity": 5, "unit": "cas" },
+      { "ingredientId": "herbes-provence", "quantity": 2, "unit": "cac" }
+    ],
+    "steps": [
+      "Couper tous les légumes en dés réguliers.",
+      "Faire revenir séparément aubergines, courgettes et poivrons dans l'huile.",
+      "Faire fondre oignons et ail, ajouter les tomates puis tous les légumes.",
+      "Ajouter les herbes et laisser mijoter 40 minutes à couvert."
+    ]
+  },
+  {
+    "id": "omelette-champignons",
+    "title": "Omelette aux champignons",
+    "servings": 2,
+    "prepTime": 5,
+    "cookTime": 10,
+    "tags": ["vegetarien", "rapide"],
+    "emoji": "🍳",
+    "color": "#FFF1C1",
+    "ingredients": [
+      { "ingredientId": "oeuf", "quantity": 5, "unit": "piece" },
+      { "ingredientId": "champignon", "quantity": 200, "unit": "g" },
+      { "ingredientId": "beurre", "quantity": 20, "unit": "g" },
+      { "ingredientId": "persil", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "sel", "quantity": 1, "unit": "pincee" }
+    ],
+    "steps": [
+      "Émincer les champignons et les faire sauter au beurre jusqu'à ce qu'ils soient dorés.",
+      "Battre les œufs avec le sel et le persil ciselé.",
+      "Verser sur les champignons et cuire à feu moyen en ramenant les bords vers le centre.",
+      "Plier l'omelette et servir baveuse."
+    ]
+  },
+  {
+    "id": "poulet-roti",
+    "title": "Poulet rôti et pommes de terre",
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 75,
+    "tags": ["familial"],
+    "emoji": "🍗",
+    "color": "#F6D9B5",
+    "ingredients": [
+      { "ingredientId": "poulet-entier", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "pomme-de-terre", "quantity": 1, "unit": "kg" },
+      { "ingredientId": "ail", "quantity": 4, "unit": "piece" },
+      { "ingredientId": "herbes-provence", "quantity": 1, "unit": "cac" },
+      { "ingredientId": "huile-olive", "quantity": 3, "unit": "cas" },
+      { "ingredientId": "beurre", "quantity": 30, "unit": "g" },
+      { "ingredientId": "sel", "quantity": 2, "unit": "pincee" }
+    ],
+    "steps": [
+      "Préchauffer le four à 200 °C.",
+      "Badigeonner le poulet de beurre, saler et parsemer d'herbes.",
+      "Disposer autour les pommes de terre coupées, les gousses d'ail et l'huile.",
+      "Rôtir 1 h 15 en arrosant régulièrement avec le jus."
+    ]
+  },
+  {
+    "id": "soupe-potiron",
+    "title": "Velouté de potiron",
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 30,
+    "tags": ["vegetarien", "familial"],
+    "emoji": "🎃",
+    "color": "#FFD8A8",
+    "ingredients": [
+      { "ingredientId": "potiron", "quantity": 1, "unit": "kg" },
+      { "ingredientId": "pomme-de-terre", "quantity": 300, "unit": "g" },
+      { "ingredientId": "oignon", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "bouillon-cube", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "creme-fraiche", "quantity": 10, "unit": "cl" },
+      { "ingredientId": "muscade", "quantity": 1, "unit": "pincee" }
+    ],
+    "steps": [
+      "Éplucher et couper le potiron, les pommes de terre et l'oignon.",
+      "Couvrir d'eau avec le cube de bouillon et cuire 25 minutes.",
+      "Mixer en ajoutant la crème et la muscade, rectifier l'assaisonnement."
+    ]
+  },
+  {
+    "id": "chili-sin-carne",
+    "title": "Chili sin carne",
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 30,
+    "tags": ["vegetarien", "familial"],
+    "emoji": "🌶️",
+    "color": "#F8C9B8",
+    "ingredients": [
+      { "ingredientId": "haricots-rouges", "quantity": 500, "unit": "g" },
+      { "ingredientId": "mais", "quantity": 280, "unit": "g" },
+      { "ingredientId": "tomates-concassees", "quantity": 800, "unit": "g" },
+      { "ingredientId": "oignon", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "poivron", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "ail", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "cumin", "quantity": 2, "unit": "cac" },
+      { "ingredientId": "paprika", "quantity": 1, "unit": "cac" },
+      { "ingredientId": "riz-basmati", "quantity": 300, "unit": "g" }
+    ],
+    "steps": [
+      "Faire revenir l'oignon, l'ail et le poivron en dés avec les épices.",
+      "Ajouter les tomates, les haricots rouges égouttés et le maïs.",
+      "Laisser mijoter 25 minutes.",
+      "Servir avec le riz cuit."
+    ]
+  },
+  {
+    "id": "saumon-papillote",
+    "title": "Saumon en papillote",
+    "servings": 4,
+    "prepTime": 15,
+    "cookTime": 20,
+    "tags": ["rapide"],
+    "emoji": "🐟",
+    "color": "#FFD6D2",
+    "ingredients": [
+      { "ingredientId": "saumon", "quantity": 4, "unit": "piece" },
+      { "ingredientId": "courgette", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "citron", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "huile-olive", "quantity": 2, "unit": "cas" },
+      { "ingredientId": "riz-basmati", "quantity": 250, "unit": "g" },
+      { "ingredientId": "sel", "quantity": 1, "unit": "pincee" }
+    ],
+    "steps": [
+      "Préchauffer le four à 200 °C.",
+      "Déposer chaque pavé sur une feuille de papier cuisson avec des rondelles de courgette et de citron.",
+      "Arroser d'huile, saler, fermer les papillotes et cuire 18 minutes.",
+      "Servir avec le riz."
+    ]
+  },
+  {
+    "id": "croque-monsieur",
+    "title": "Croque-monsieur",
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 10,
+    "tags": ["rapide", "familial"],
+    "emoji": "🥪",
+    "color": "#F5E3C3",
+    "ingredients": [
+      { "ingredientId": "pain-de-mie", "quantity": 8, "unit": "piece" },
+      { "ingredientId": "jambon", "quantity": 4, "unit": "piece" },
+      { "ingredientId": "emmental-rape", "quantity": 120, "unit": "g" },
+      { "ingredientId": "beurre", "quantity": 40, "unit": "g" }
+    ],
+    "steps": [
+      "Beurrer les tranches de pain de mie.",
+      "Garnir de jambon et d'emmental, refermer et parsemer le dessus d'emmental.",
+      "Cuire 10 minutes au four à 210 °C ou dans un appareil à croque."
+    ]
+  },
+  {
+    "id": "risotto-champignons",
+    "title": "Risotto aux champignons",
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 25,
+    "tags": ["vegetarien"],
+    "emoji": "🍄",
+    "color": "#EADFD3",
+    "ingredients": [
+      { "ingredientId": "riz-arborio", "quantity": 320, "unit": "g" },
+      { "ingredientId": "champignon", "quantity": 300, "unit": "g" },
+      { "ingredientId": "oignon", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "bouillon-cube", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "vin-blanc", "quantity": 10, "unit": "cl" },
+      { "ingredientId": "parmesan", "quantity": 60, "unit": "g" },
+      { "ingredientId": "beurre", "quantity": 40, "unit": "g" }
+    ],
+    "steps": [
+      "Préparer 1 litre de bouillon chaud avec les cubes.",
+      "Faire revenir l'oignon émincé dans la moitié du beurre, ajouter le riz et le nacrer 2 minutes.",
+      "Déglacer au vin blanc puis ajouter le bouillon louche par louche en remuant.",
+      "Faire sauter les champignons à part et les ajouter en fin de cuisson avec le parmesan et le reste du beurre."
+    ]
+  },
+  {
+    "id": "hachis-parmentier",
+    "title": "Hachis parmentier",
+    "servings": 6,
+    "prepTime": 25,
+    "cookTime": 30,
+    "tags": ["familial"],
+    "emoji": "🥔",
+    "color": "#F3E2C7",
+    "ingredients": [
+      { "ingredientId": "pomme-de-terre", "quantity": 1.2, "unit": "kg" },
+      { "ingredientId": "boeuf-hache", "quantity": 600, "unit": "g" },
+      { "ingredientId": "oignon", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "lait", "quantity": 20, "unit": "cl" },
+      { "ingredientId": "beurre", "quantity": 60, "unit": "g" },
+      { "ingredientId": "emmental-rape", "quantity": 100, "unit": "g" },
+      { "ingredientId": "muscade", "quantity": 1, "unit": "pincee" }
+    ],
+    "steps": [
+      "Cuire les pommes de terre à l'eau salée 20 minutes.",
+      "Faire revenir les oignons puis la viande hachée.",
+      "Écraser les pommes de terre avec le lait chaud, le beurre et la muscade.",
+      "Étaler la viande dans un plat, couvrir de purée et d'emmental, gratiner 20 minutes à 200 °C."
+    ]
+  },
+  {
+    "id": "buddha-bowl",
+    "title": "Buddha bowl quinoa & pois chiches",
+    "servings": 2,
+    "prepTime": 20,
+    "cookTime": 15,
+    "tags": ["vegetarien", "rapide"],
+    "emoji": "🥙",
+    "color": "#D7F0E3",
+    "ingredients": [
+      { "ingredientId": "quinoa", "quantity": 150, "unit": "g" },
+      { "ingredientId": "pois-chiches", "quantity": 250, "unit": "g" },
+      { "ingredientId": "avocat", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "carotte", "quantity": 2, "unit": "piece" },
+      { "ingredientId": "epinard", "quantity": 80, "unit": "g" },
+      { "ingredientId": "sauce-soja", "quantity": 2, "unit": "cas" },
+      { "ingredientId": "citron", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "paprika", "quantity": 1, "unit": "cac" }
+    ],
+    "steps": [
+      "Cuire le quinoa 12 minutes dans l'eau bouillante.",
+      "Faire griller les pois chiches égouttés à la poêle avec le paprika.",
+      "Râper les carottes et trancher l'avocat.",
+      "Répartir le tout dans des bols avec les épinards, arroser de sauce soja et de citron."
+    ]
+  },
+  {
+    "id": "penne-pesto",
+    "title": "Penne au pesto et tomates cerises",
+    "servings": 4,
+    "prepTime": 5,
+    "cookTime": 11,
+    "tags": ["vegetarien", "rapide"],
+    "emoji": "🌿",
+    "color": "#DDEFC9",
+    "ingredients": [
+      { "ingredientId": "penne", "quantity": 400, "unit": "g" },
+      { "ingredientId": "pesto", "quantity": 190, "unit": "g" },
+      { "ingredientId": "tomate-cerise", "quantity": 250, "unit": "g" },
+      { "ingredientId": "parmesan", "quantity": 40, "unit": "g" },
+      { "ingredientId": "basilic", "quantity": 1, "unit": "piece" }
+    ],
+    "steps": [
+      "Cuire les penne al dente.",
+      "Couper les tomates cerises en deux.",
+      "Mélanger les pâtes égouttées avec le pesto, les tomates et le parmesan.",
+      "Servir avec quelques feuilles de basilic."
+    ]
+  },
+  {
+    "id": "tarte-tomate-moutarde",
+    "title": "Tarte tomate-moutarde",
+    "servings": 6,
+    "prepTime": 15,
+    "cookTime": 30,
+    "tags": ["vegetarien", "familial"],
+    "emoji": "🍅",
+    "color": "#FBD3CB",
+    "ingredients": [
+      { "ingredientId": "pate-feuilletee", "quantity": 1, "unit": "piece" },
+      { "ingredientId": "tomate", "quantity": 5, "unit": "piece" },
+      { "ingredientId": "moutarde", "quantity": 3, "unit": "cas" },
+      { "ingredientId": "emmental-rape", "quantity": 70, "unit": "g" },
+      { "ingredientId": "herbes-provence", "quantity": 1, "unit": "cac" },
+      { "ingredientId": "huile-olive", "quantity": 1, "unit": "cas" }
+    ],
+    "steps": [
+      "Préchauffer le four à 200 °C et étaler la pâte dans un moule.",
+      "Tartiner le fond de moutarde et parsemer d'emmental.",
+      "Disposer les tomates en rondelles, arroser d'huile et saupoudrer d'herbes.",
+      "Cuire 30 minutes."
+    ]
+  },
+  {
+    "id": "crepes",
+    "title": "Crêpes",
+    "servings": 4,
+    "prepTime": 10,
+    "cookTime": 20,
+    "tags": ["dessert", "familial", "vegetarien"],
+    "emoji": "🥞",
+    "color": "#FFEBC2",
+    "ingredients": [
+      { "ingredientId": "farine", "quantity": 250, "unit": "g" },
+      { "ingredientId": "oeuf", "quantity": 4, "unit": "piece" },
+      { "ingredientId": "lait", "quantity": 50, "unit": "cl" },
+      { "ingredientId": "beurre", "quantity": 50, "unit": "g" },
+      { "ingredientId": "sucre", "quantity": 30, "unit": "g" },
+      { "ingredientId": "sel", "quantity": 1, "unit": "pincee" }
+    ],
+    "steps": [
+      "Mélanger la farine, le sucre et le sel, creuser un puits et ajouter les œufs.",
+      "Incorporer le lait petit à petit en fouettant, puis le beurre fondu.",
+      "Laisser reposer la pâte 30 minutes si possible.",
+      "Cuire les crêpes dans une poêle chaude légèrement beurrée."
+    ]
+  },
+  {
+    "id": "gateau-chocolat",
+    "title": "Gâteau au chocolat fondant",
+    "servings": 8,
+    "prepTime": 15,
+    "cookTime": 25,
+    "tags": ["dessert", "vegetarien"],
+    "emoji": "🍫",
+    "color": "#E6D3C5",
+    "ingredients": [
+      { "ingredientId": "chocolat-noir", "quantity": 200, "unit": "g" },
+      { "ingredientId": "beurre", "quantity": 150, "unit": "g" },
+      { "ingredientId": "sucre", "quantity": 150, "unit": "g" },
+      { "ingredientId": "oeuf", "quantity": 4, "unit": "piece" },
+      { "ingredientId": "farine", "quantity": 50, "unit": "g" }
+    ],
+    "steps": [
+      "Préchauffer le four à 180 °C.",
+      "Faire fondre le chocolat avec le beurre.",
+      "Fouetter les œufs avec le sucre, ajouter le chocolat puis la farine.",
+      "Verser dans un moule beurré et cuire 22 à 25 minutes : le cœur doit rester tremblant."
+    ]
+  },
+  {
+    "id": "crumble-pommes",
+    "title": "Crumble aux pommes",
+    "servings": 6,
+    "prepTime": 15,
+    "cookTime": 35,
+    "tags": ["dessert", "familial", "vegetarien"],
+    "emoji": "🍎",
+    "color": "#F7DCC9",
+    "ingredients": [
+      { "ingredientId": "pomme", "quantity": 6, "unit": "piece" },
+      { "ingredientId": "farine", "quantity": 150, "unit": "g" },
+      { "ingredientId": "beurre", "quantity": 100, "unit": "g" },
+      { "ingredientId": "cassonade", "quantity": 100, "unit": "g" },
+      { "ingredientId": "cannelle", "quantity": 1, "unit": "cac" }
+    ],
+    "steps": [
+      "Préchauffer le four à 180 °C.",
+      "Éplucher les pommes, les couper en dés et les répartir dans un plat avec la cannelle.",
+      "Sabler du bout des doigts la farine, la cassonade et le beurre froid.",
+      "Recouvrir les pommes et cuire 35 minutes, jusqu'à ce que le dessus soit doré."
+    ]
+  },
+  {
+    "id": "mousse-chocolat",
+    "title": "Mousse au chocolat",
+    "servings": 6,
+    "prepTime": 20,
+    "cookTime": 0,
+    "tags": ["dessert", "vegetarien"],
+    "emoji": "🍮",
+    "color": "#E9D8CF",
+    "ingredients": [
+      { "ingredientId": "chocolat-noir", "quantity": 200, "unit": "g" },
+      { "ingredientId": "oeuf", "quantity": 6, "unit": "piece" },
+      { "ingredientId": "sucre", "quantity": 30, "unit": "g" },
+      { "ingredientId": "sel", "quantity": 1, "unit": "pincee" }
+    ],
+    "steps": [
+      "Faire fondre le chocolat au bain-marie et laisser tiédir.",
+      "Séparer les blancs des jaunes et incorporer les jaunes au chocolat.",
+      "Monter les blancs en neige avec le sel, en ajoutant le sucre à la fin.",
+      "Incorporer délicatement les blancs au chocolat et réserver au frais au moins 3 heures."
+    ]
+  }
+]
